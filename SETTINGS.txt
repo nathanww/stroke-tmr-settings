@@ -1,5 +1,5 @@
 USER_ID, BACKOFF_TIME, MAX_STIM, ONSET_CONFIDENCE, E_STOP, BUFFER_SIZE
-A102, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
+A102, 300000, 1800, 0.9, 0.85, 240, FILES:go_pd.wav:success_pd.wav:go_ad.wav:success_ad.wav
 A101, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A103, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A104, 300000, 1800, 0.9, 0.85, 240, FILES:go_bi.wav:success_bi.wav:go_ad.wav:success_ad.wav
