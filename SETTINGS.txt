@@ -5,7 +5,7 @@ A103, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A104, 300000, 1800, 0.9, 0.85, 240, FILES:go_ad.wav:success_ad.wav:go_bi.wav:success_bi.wav
 A105, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
 A106, 300000, 1800, 0.9, 0.85, 240, FILES:go_bi.wav:success_bi.wav:go_trilat.wav:success_trilat.wav
-A107, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
+A107, 300000, 1800, 0.9, 0.85, 240, FILES:go_bi.wav:success_bi.wav:go_ad.wav:success_ad.wav
 A108, 300000, 1800, 0.9, 0.85, 240, FILES:go_bi.wav:success_bi.wav:go_ad.wav:success_ad.wav
 
 tmr1, 300000, 1800, 0.9, 0.85, 240, FILES:silent.wav
